@@ -1,5 +1,6 @@
 console.log("Bem vindo!!!")
 
+// object
 
 let Car = {
     marca: "ford",
@@ -12,6 +13,8 @@ let Car = {
 }
 
 console.log(Car)
+
+// Array 
 
 let Times = [
     { name: "Roma"},
